@@ -29,7 +29,6 @@ Hi, I'm Victor, a tech professional from Singapore. I have a passion to make thi
 
 - 📫 You can reach me at [email](mailto:vtancs@gmail.com) :)
 - 💬 My interests .. **Algorithms**, **IoT**, **Security**, **Retro**, **Micro-Services**, **APIs** and anything interesting relating to the Internet, coding, security, cryptography and computer languages.
-- 😄 Pronouns: He/Him
 
 If you want to support the work I do in the public domain, consider buying me a cup of coffee
 <a href="https://www.buymeacoffee.com/vtancs">
