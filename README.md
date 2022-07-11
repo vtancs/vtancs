@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 Hi, I'm Victor, a tech professional from Singapore. I have a passion to make things work. Been around the tech world for a while, and have seen technologies evolve since the 1990s.
 
 - 📫 You can reach me at [email](mailto:vtancs@gmail.com) :)
-- 💬 My interests .. **Algorithms**, **IoT**, **Security**, **Retro**, **Micro-Services**, **APIs** and anything interesting relating to the Internet, coding, security, cryptography and computer languages.
+- 💬 My current area of interests :- **Algorithms**, **IoT**, **Security**, **Retro**, **Micro-Services**, **APIs**.
 
 If you want to support the work I do in the public domain, consider buying me a cup of coffee
 <a href="https://www.buymeacoffee.com/vtancs">
