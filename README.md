@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvtancs&labelColor=%23ff8a65&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvtancs)
 <br />
 
-Hi, I'm Victor, a tech professional from Singapore. I have a passion to make things work. Been around the tech world for a while, and have seen technologies evolve since the 1990s.
+Hi, I'm Victor, a techy in 1.3521° N, 103.8198° E. Passion to make things work.
 
 - 📫 You can reach me at [email](mailto:vtancs@gmail.com) :)
 - 💬 My current area of interests :- **Algorithms**, **IoT**, **Security**, **Retro**, **Micro-Services**, **APIs**.
